@@ -23,7 +23,7 @@
 
 <h2 align="center">Skills🛠️</h2>
 
-###
+#####
 
 <div align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="38" alt="jupyter logo"  />
@@ -46,14 +46,15 @@
   <img width="8" /> 
 </div>
 
-###
+#####
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=afreed386&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afreed386&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+#####
 
 <h2 align="center">Thank You for Visiting My GitHub Profile! 👋</h2>
 
