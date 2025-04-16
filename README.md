@@ -21,14 +21,38 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/afreedahmed386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/afreedahmed386" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h2 align="center">Skills🛠️</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afreed386&show_icons=true&locale=en&layout=compact" alt="afreed386" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreed386&show_icons=true&locale=en" alt="afreed386" /></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="38" alt="jupyter logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="38" alt="python logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="38" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="38" alt="power BI logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" height="38" alt="numpy logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" height="38" alt="pandas logo"  />
+  <img width="8" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" height="38" alt="VS code logo"  />
+  <img width="8" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" height="38" alt="deepseek logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" height="38" alt="slack logo"  />
+  <img width="8" />
+  
+  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afreed386&" alt="afreed386" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afreed386&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afreed386&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
 
 
+<h2 align="center">Thank You for Visiting My GitHub Profile! 👋</h2>
 
