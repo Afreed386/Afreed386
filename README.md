@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Afreed</h1>
-<h3 align="center">A passionate Data Analyst from Karnataka</h3>
-
-<img align="center" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreed386" alt="afreed386" /></a> </p>
 
