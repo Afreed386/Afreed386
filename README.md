@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Afreed</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 Aspiring  **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afreed386](https://github.com/Afreed386)
 
